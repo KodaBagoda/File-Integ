@@ -51,7 +51,6 @@ File: /path/to/your/directory/subfolder/file2.jpg
 
 Feel free to fork this repository and make improvements! Here are some ideas:
 
-* Implement file size checks alongside SHA-256 hashes for additional verification.
 * Allow users to specify a file extension filter to check specific file types.
 * Add options to save calculated hashes to a file for record-keeping.
 * Explore integrating with version control systems (optional).
